@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **HarmonyHub - Music Streaming Platform** [https://github.com/shamli1997/HarmonyHub]
+- 🔭 I’m currently working on **DocumentAI - Chat with your pdf** [https://github.com/shamli1997/chatpdf]
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
