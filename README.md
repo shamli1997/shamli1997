@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on **DocumentAI - Chat with your pdf** [https://github.com/shamli1997/chatpdf]
+- 🔭 I’m currently working on **Recommendation System** [https://github.com/shamli1997/recommendation-system]
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://shamli1997.github.io/shamli-portfolio-website/](https://shamli1997.github.io/shamli-portfolio-website/)
 
-- 💬 Ask me about **Python, Javascript, React.js, GCP**
+- 💬 Ask me about **Machine Learning, LLMs, Python, Javascript, React.js, GCP**
 
-- 📫 How to reach me **singole@scu.edu**
+- 📫 How to reach me **shamli.ingole19@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1g-yNxwTCKdTOo-n9oEhEAYsuOq55SKIj/view?usp=drive_link](https://drive.google.com/file/d/1g-yNxwTCKdTOo-n9oEhEAYsuOq55SKIj/view?usp=drive_link)
 
