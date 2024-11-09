@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shamli.ingole19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g-yNxwTCKdTOo-n9oEhEAYsuOq55SKIj/view?usp=drive_link](https://drive.google.com/file/d/1g-yNxwTCKdTOo-n9oEhEAYsuOq55SKIj/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WNNa2O7OYIHPXuR-ZQGs4Ga1ol56JRcy/view?usp=drive_link](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
