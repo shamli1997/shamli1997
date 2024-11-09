@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **Recommendation System** [https://github.com/shamli1997/recommendation-system]
+- 🔭 I’m currently working on [**Recommendation System**](https://github.com/shamli1997/recommendation-syste)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://shamli1997.github.io/shamli-portfolio-website/](https://shamli1997.github.io/shamli-portfolio-website/)
+- 👨‍💻 All of my projects are available at [Shamli's Portfolio](https://shamli1997.github.io/shamli-portfolio-website/)
 
 - 💬 Ask me about **Machine Learning, LLMs, Python, Javascript, React.js, GCP**
 
